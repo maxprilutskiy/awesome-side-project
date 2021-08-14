@@ -8,7 +8,7 @@
 
 **Side Project Kit** is a curated collection of tools that make side project development much easier.
 
-> If you find this collection helpful or know somebody who might benefit from it - please give it a 🌟 star ;)
+# If you find this collection helpful or know somebody who might benefit from it - please give it a 🌟 star ;)
 
 
 
@@ -25,7 +25,7 @@ I faced these questions when worked on side projects over the last several years
 _Max Prilutskiy, engineer & manager & entrepreneur, [@Typeform](https://github.com/Typeform)_
 
 [![Follow Max Prilutskiy on Twitter](https://img.shields.io/twitter/follow/MaxPrilutskiy?style=social)](https://twitter.com/MaxPrilutskiy)
-# ✍️ How to Contribute
+## ✍️ How to Contribute
 If you have found some great tool or app (😍), please, contribute to **Side Project Kit** collection. Simply submit a Pull Request with respect to our [Contribution Guidelines](contributing.md) 😎. We would love you to see your suggestions!
 
 
@@ -35,7 +35,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
 [![Tweet about Side Project Kit](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fmaxprilutskiy%2Fside-project-kit)](https://twitter.com/intent/tweet?url=https://github.com/maxprilutskiy/side-project-kit&text=A%20curated%20collection%20of%20tools%20that%20make%20side%20project%20development%20much%20easier%20%F0%9F%98%8D%0A%0Aby%20@MaxPrilutskiy)
 
-# 🔖 Table of Contents
+## 🔖 Table of Contents
 
 <!--ts-->
    * [Build](#👩‍💻-build)
@@ -79,11 +79,11 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
       
 <!--te-->
 
-# 👩‍💻 Build
+## 👩‍💻 Build
 
-## Develop
+### Develop
 
-### Hosting
+#### Hosting
 
 -   [Github pages](https://pages.github.com/) - free hosting for static sites. 
 
@@ -105,13 +105,13 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://firebase.google.com/pricing): Free for first 2M function calls every month.
 
-### CI
+#### CI
 
 -   [Github actions](https://github.com/features/actions) - CI/CD workflow automations
 
     [Pricing](https://github.com/features/actions): up to 2K build minutes per month, free for open source.
 
-### Errors tracking
+#### Errors tracking
 
 -   [Rollbar](https://rollbar.com/) - a cloud-based bug tracking and monitoring solution.   
 
@@ -125,7 +125,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://logrocket.com/pricing/): up to 1K sessions monthly for free.
 
-### Backend
+#### Backend
 
 -   [Firebase](https://firebase.google.com/) - tools to get the project off the ground quick.
 
@@ -139,7 +139,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     Pricing: Free and open-source.
 
-### QA
+#### QA
 
 -   [Cypress](https://www.cypress.io/) - e2e testing framework and a dashboard.
 
@@ -149,15 +149,15 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://cucumber.io/tools/cucumberstudio/pricing/): Testing framework is free and open-source.
 
-## Design
+### Design
 
-### Visual prototyping
+#### Visual prototyping
 
 -   [Invision](https://www.invisionapp.com/) - prototyping and wireframing tool.
 
     [Pricing](https://www.invisionapp.com/plans): free plan includes up to 2 docs and up to 10 users.
 
-### Graphic assets
+#### Graphic assets
 
 -   [Iconfinder](https://www.iconfinder.com/) - a search engine for icons and illustrations.
 
@@ -167,15 +167,15 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     Pricing: Free.
 
-### Graphic design
+#### Graphic design
 
 -   [Crello](https://crello.com/) - animated graphic design.
 
     [Pricing](https://crello.com/plans/): 5 design downloads every month.
 
-## Plan
+### Plan
 
-### Task management
+#### Task management
 
 -   [Trello](https://trello.com/en) - Kanban task board.
 
@@ -189,7 +189,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
     
     [Pricing](https://www.atlassian.com/software/jira/pricing): Up to 10 users for free.
 
-### Collaboration
+#### Collaboration
 
 -   [Slack](https://slack.com/) - messaging app for work.
 
@@ -203,23 +203,23 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://apps.google.com/intl/en/meet/pricing/): Up to 100 participants, up to 60 minutes per meeting for free.
 
-## Research
+### Research
 
-### User research
+#### User research
 
 -   [Typeform](https://www.typeform.com/) - online forms and surveys with wide design options.
 
     [Pricing](https://www.typeform.com/pricing/): up 10 questions/typeform, 10 responses/month for [free](https://help.typeform.com/hc/en-us/articles/360032972852-Free-plan).
 
-### Virtual whiteboard
+#### Virtual whiteboard
 
 -   [Miro](https://miro.com/) - Miro is the online collaborative whiteboarding platform to work together, from brainstorming with digital sticky notes to planning.
 
     [Pricing](https://miro.com/pricing/): up to 3 editable boards for free.
 
-# 🔁 Iterate
+## 🔁 Iterate
 
-### Users tracking
+#### Users tracking
 
 -   [MixPanel](https://mixpanel.com/) - customer insights and analytics.
 
@@ -237,13 +237,13 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://www.hotjar.com/pricing/business/): Capture up to 1,000 pageviews/heatmap, Manual data capture, Create 3 Heatmaps, Up to 300 Recordings, Create and store 3 Surveys & Incoming Feedback widgets.
 
-### Split tests
+#### Split tests
 
 -   [Google Optimize](https://optimize.google.com/) - Optimize allows you to test variants of web pages and see how they perform against an objective that you specify. Optimize monitors the results of your experiment and tells you which variant is the leader.
 
     [Pricing](https://support.google.com/optimize/answer/7084762?hl=en): up to 5 simultaneous experiments for free.
 
-### Link shorteners
+#### Link shorteners
 
 -   [Kutt](https://kutt.it/) - open-source link shortener.
 
@@ -253,11 +253,11 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://cutt.ly/pro-pricing): up to 3 branded domains for free.
 
-# 📦 Package
+## 📦 Package
 
-## Identity
+### Identity
 
-### Branding
+#### Branding
 
 -   [Google Domains](https://domains.google/) - domain register by Google.
 
@@ -267,7 +267,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     Pricing: Free
 
-### Landing page
+#### Landing page
 
 -   [Unicorn platform](https://unicornplatform.com/) - Drag & drop landing page builder for startups, mobile apps, and SaaS. 100% no-code. 
 
@@ -277,15 +277,15 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://versoly.com/pricing): up to 3 sites with 3 pages per site, subdomain-only is on the free plan.
 
-## Reach
+### Reach
 
-### Email on custom domain
+#### Email on custom domain
 
 -   [Yandex 360 for business](https://360.yandex.com/business/) - a set of tools for teamwork, including mail on custom domain.
 
     [Pricing](https://360.yandex.com/business/tariff): up to 10GB of storage on the free plan.
 
-### Email
+#### Email
 
 -   [MailChimp](https://mailchimp.com/) - marketing automation platform and email marketing service.
 
@@ -299,9 +299,9 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://www.mailgun.com/pricing/): 5K free emails for 3 months, then pay-as-you-go.
 
-## Legal
+### Legal
 
-### Cookies
+#### Cookies
 
 -   [Axeptio](https://www.axeptio.eu/) - Cookies consent management tool.
 
@@ -311,13 +311,13 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://www.cookiebot.com/en/pricing/): Maximum 1 domain for free, with less than 100 subpages.
 
-### Terms of use, privacy policy
+#### Terms of use, privacy policy
 
 - ?
 
-## Finance
+### Finance
 
-### Payments
+#### Payments
 
 -   [Paddle](https://paddle.com/) - payment processor serving as a merchant of record.
 
@@ -327,7 +327,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://www.paypal.com/us/webapps/mpp/merchant-fees): 3.5% + 1.5% + $.049.
 
-### Banking
+#### Banking
 
 -   [Wise](https://wise.com/gb/business/) - global business account.
 
@@ -337,9 +337,9 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://www.revolut.com/business/business-account-plans): up to 5 free local payments (.2 GBP outside the limit), 0 free international payments (3 GBP per each)
 
-## User support
+### User support
 
-### Help center
+#### Help center
 
 -   [Notion](https://www.notion.so/) - The all-in-one workspace for notes, tasks, wikis, and databases. Has publicly shareable URLs feature, hence can be used as a wiki site.
 
@@ -349,7 +349,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     Pricing: Free and open-source.
 
-### Community
+#### Community
 
 -   [Slack](https://slack.com/) - messaging app for work, often used for hosting communities.
 
@@ -359,7 +359,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     Pricing: Free.
 
-### Chat
+#### Chat
 
 -   [Crisp chat](https://crisp.chat/en/) - Provides realtime assistance with shared browsing and live chat. Crisp lets you co-browse with your customers without any other plugin than our live chat solution.
 
