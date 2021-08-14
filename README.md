@@ -109,6 +109,11 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://github.com/features/actions): up to 2K build minutes per month, free for open source.
 
+-   [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) - CI/CD for any platform
+
+    [Pricing](https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/): 1.8K minutes per month.
+
+
 #### Errors tracking
 
 -   [Rollbar](https://rollbar.com/) - a cloud-based bug tracking and monitoring solution.   
