@@ -18,6 +18,16 @@ If you have found some great marketing content or tool, please, contribute to Si
          * [Errors tracking](#errors-tracking)
          * [Backend](#backend)
          * [QA](#qa)
+      * [Design](#design)
+         * [Visual Prototyping](#visual-prototyping)
+         * [Graphic Assets](#graphic-assets)
+         * [Graphic Design](#graphic-design)
+      * [Plan](#plan)
+         * [Task management](#task-management)
+         * [Collaboration](#collaboration)
+      * [Research](#research)
+         * [User research](#user-research)
+         * [Virtual whiteboard](#virtual-whiteboard)
    * [Iterate](#iterate)
       * [Users tracking](#users-tracking)
       * [Split tests](#split-tests)
@@ -165,7 +175,7 @@ If you have found some great marketing content or tool, please, contribute to Si
 - [Typeform](https://www.typeform.com/) - online forms and surveys with wide design options.
 [Pricing](https://www.typeform.com/pricing/): up 10 questions/typeform, 10 responses/month for [free](https://help.typeform.com/hc/en-us/articles/360032972852-Free-plan).
 
-### Virtual whiteboards
+### Virtual whiteboard
 
 - [Miro](https://miro.com/) - Miro is the online collaborative whiteboarding platform to work together, from brainstorming with digital sticky notes to planning.
 [Pricing](https://miro.com/pricing/): up to 3 editable boards for free.
