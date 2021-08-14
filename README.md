@@ -1,6 +1,14 @@
 ![Side Project Kit - for developers, by developers](side-project-kit.png)
-Table of contents
-=================
+
+---
+
+
+Side Project Kit is a curated collection of tools that make side project development much easier. 
+
+_Max Prilutskiy_
+# How to Use and Contribute
+If you have found some great marketing content or tool, please, contribute to Side Project Kit collection. Simply submit a Pull Request with respect to our [Contribution Guidelines](contributing.md) 😎. We would love you to see your suggestions!
+# Table of contents
 
 <!--ts-->
    * [Build](#build)
