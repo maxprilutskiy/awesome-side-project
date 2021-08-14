@@ -8,9 +8,13 @@
 
 **Side Project Kit** is a curated collection of tools that make side project development much easier.
 
-# 🌟 If you find this collection helpful - please give it a star ;)
+# 🌟 If you find this collection helpful - please give it a star ;)<br />
 
+🎗 Support **Side Project Kit**, share a link to this page on Twitter:
 
+[![Tweet about Side Project Kit](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fmaxprilutskiy%2Fside-project-kit)](https://twitter.com/intent/tweet?url=https://github.com/maxprilutskiy/side-project-kit&text=A%20curated%20collection%20of%20tools%20that%20make%20side%20project%20development%20much%20easier%20%F0%9F%98%8D%0A%0Aby%20@MaxPrilutskiy)
+
+<br />
 
 The collection is split into 3 main parts:
 * 👩‍💻 Build - resources that help building projects faster and with less effort;
@@ -28,12 +32,6 @@ _Max Prilutskiy, engineer & manager & entrepreneur, [@Typeform](https://github.c
 ## ✍️ How to Contribute
 If you have found some great tool or app (😍), please, contribute to **Side Project Kit** collection. Simply submit a Pull Request with respect to our [Contribution Guidelines](CONTRIBUTING.md) 😎. We would love you to see your suggestions!
 
-
-<br />
-
-🎗 Support **Side Project Kit**, share a link to this page on Twitter:
-
-[![Tweet about Side Project Kit](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fmaxprilutskiy%2Fside-project-kit)](https://twitter.com/intent/tweet?url=https://github.com/maxprilutskiy/side-project-kit&text=A%20curated%20collection%20of%20tools%20that%20make%20side%20project%20development%20much%20easier%20%F0%9F%98%8D%0A%0Aby%20@MaxPrilutskiy)
 
 ## 🔖 Table of Contents
 
