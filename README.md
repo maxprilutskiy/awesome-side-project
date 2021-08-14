@@ -156,6 +156,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
 #### Visual prototyping
 
+-   [Marvel](https://marvelapp.com/) - rapid prototyping tool.
+
+    [Pricing](https://marvelapp.com/pricing): 1 user and 1 project come for free.
+
 -   [Invision](https://www.invisionapp.com/) - prototyping and wireframing tool.
 
     [Pricing](https://www.invisionapp.com/plans): free plan includes up to 2 docs and up to 10 users.
