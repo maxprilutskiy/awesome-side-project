@@ -116,6 +116,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 -   [Rollbar](https://rollbar.com/) - a cloud-based bug tracking and monitoring solution.   
 
     [Pricing](https://rollbar.com/pricing/): up to 25,000 error events monthly for free.
+
 -   [Sentry](https://sentry.io/) - error tracking and performance monitoring.
 
     [Pricing](https://sentry.io/pricing/): up to 5K errors monthly for free.
