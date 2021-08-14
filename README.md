@@ -1,17 +1,33 @@
 ![Side Project Kit - for developers, by developers](side-project-kit.png)
 
+![Follow Side Projects subreddit](https://img.shields.io/reddit/subreddit-subscribers/SideProject?style=social)
+
+> If you find this collection helpful or know somebody who might benefit from it - please give it a 🌟 star ;)
+
+![Tweet about Side Project Kit](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fmaxprilutskiy%2Fside-project-kit)
+
 ---
 
 
-Side Project Kit is a curated collection of tools that make side project development much easier. 
+**Side Project Kit** is a curated collection of tools that make side project development much easier. The collection is split into 3 main parts:
+* 👩‍💻 Build - resources that help building projects faster and with less effort;
+* 🔁 Iterate - apps that allow iterating on projects faster and spend time on what really matters;
+* 📦 Package - tools that make projects look cool and professional, and helpful while preparing for launch.
 
-_Max Prilutskiy_
-# How to Use and Contribute
-If you have found some great marketing content or tool, please, contribute to Side Project Kit collection. Simply submit a Pull Request with respect to our [Contribution Guidelines](contributing.md) 😎. We would love you to see your suggestions!
-# Table of contents
+I faced these questions when worked on side projects over the last several years. During that time I tested, gave up on, searched again, and then bookmarked plenty of tools that eventually helped me a lot! I hope you will find them helpful too. Good luck! 😉
+
+
+<br />
+
+_Max Prilutskiy, engineer & manager & entrepreneur, [@Typeform](https://github.com/Typeform)_
+
+![Follow Max Prilutskiy on Twitter](https://img.shields.io/twitter/follow/MaxPrilutskiy?style=social)
+# ✍️ How to Contribute
+If you have found some great tool or app (😍), please, contribute to **Side Project Kit** collection. Simply submit a Pull Request with respect to our [Contribution Guidelines](contributing.md) 😎. We would love you to see your suggestions!
+# 🔖 Table of Contents
 
 <!--ts-->
-   * [Build](#build)
+   * [Build](#👩‍💻-build)
       * [Develop](#develop)
          * [Hosting](#hosting)
          * [CI](#ci)
@@ -28,11 +44,11 @@ If you have found some great marketing content or tool, please, contribute to Si
       * [Research](#research)
          * [User research](#user-research)
          * [Virtual whiteboard](#virtual-whiteboard)
-   * [Iterate](#iterate)
+   * [Iterate](#🔁-iterate)
       * [Users tracking](#users-tracking)
       * [Split tests](#split-tests)
       * [Link shorteners](#link-shorteners)
-   * [Package](#package)
+   * [Package](#📦-package)
       * [Identity](#identity)
          * [Branding](#branding)
          * [Landing page](#landing-page)
@@ -52,7 +68,7 @@ If you have found some great marketing content or tool, please, contribute to Si
       
 <!--te-->
 
-# Build
+# 👩‍💻 Build
 
 ## Develop
 
@@ -180,7 +196,7 @@ If you have found some great marketing content or tool, please, contribute to Si
 - [Miro](https://miro.com/) - Miro is the online collaborative whiteboarding platform to work together, from brainstorming with digital sticky notes to planning.
 [Pricing](https://miro.com/pricing/): up to 3 editable boards for free.
 
-# Iterate
+# 🔁 Iterate
 
 ### Users tracking
 
@@ -212,7 +228,7 @@ If you have found some great marketing content or tool, please, contribute to Si
 
     [Pricing](https://cutt.ly/pro-pricing): up to 3 branded domains for free.
 
-# Package
+# 📦 Package
 
 ## Identity
 
