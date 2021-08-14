@@ -8,7 +8,7 @@
 
 **Side Project Kit** is a curated collection of tools that make side project development much easier.
 
-# If you find this collection helpful or know somebody who might benefit from it - please give it a 🌟 star ;)
+# 🌟 If you find this collection helpful - please give it a star ;) 🌟
 
 
 
@@ -26,7 +26,7 @@ _Max Prilutskiy, engineer & manager & entrepreneur, [@Typeform](https://github.c
 
 [![Follow Max Prilutskiy on Twitter](https://img.shields.io/twitter/follow/MaxPrilutskiy?style=social)](https://twitter.com/MaxPrilutskiy)
 ## ✍️ How to Contribute
-If you have found some great tool or app (😍), please, contribute to **Side Project Kit** collection. Simply submit a Pull Request with respect to our [Contribution Guidelines](contributing.md) 😎. We would love you to see your suggestions!
+If you have found some great tool or app (😍), please, contribute to **Side Project Kit** collection. Simply submit a Pull Request with respect to our [Contribution Guidelines](CONTRIBUTING.md) 😎. We would love you to see your suggestions!
 
 
 <br />
