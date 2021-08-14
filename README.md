@@ -1,29 +1,39 @@
 ![Side Project Kit - for developers, by developers](side-project-kit.png)
 
-![Follow Side Projects subreddit](https://img.shields.io/reddit/subreddit-subscribers/SideProject?style=social)
-
-> If you find this collection helpful or know somebody who might benefit from it - please give it a 🌟 star ;)
-
-![Tweet about Side Project Kit](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fmaxprilutskiy%2Fside-project-kit)
+[![Follow Side Projects subreddit](https://img.shields.io/reddit/subreddit-subscribers/SideProject?style=social)]()
 
 ---
 
 
-**Side Project Kit** is a curated collection of tools that make side project development much easier. The collection is split into 3 main parts:
+**Side Project Kit** is a curated collection of tools that make side project development much easier.
+
+> If you find this collection helpful or know somebody who might benefit from it - please give it a 🌟 star ;)
+
+
+
+The collection is split into 3 main parts:
 * 👩‍💻 Build - resources that help building projects faster and with less effort;
-* 🔁 Iterate - apps that allow iterating on projects faster and spend time on what really matters;
+* 🔁 Iterate - apps that allow iterating on projects faster and develop what really matters;
 * 📦 Package - tools that make projects look cool and professional, and helpful while preparing for launch.
 
-I faced these questions when worked on side projects over the last several years. During that time I tested, gave up on, searched again, and then bookmarked plenty of tools that eventually helped me a lot! I hope you will find them helpful too. Good luck! 😉
+I faced these questions when worked on side projects over the last several years. During that time I tested, gave up on, searched again, and bookmarked plenty of tools that eventually helped me a lot! I hope you will find them helpful too. Good luck! 😉
 
 
 <br />
 
 _Max Prilutskiy, engineer & manager & entrepreneur, [@Typeform](https://github.com/Typeform)_
 
-![Follow Max Prilutskiy on Twitter](https://img.shields.io/twitter/follow/MaxPrilutskiy?style=social)
+[![Follow Max Prilutskiy on Twitter](https://img.shields.io/twitter/follow/MaxPrilutskiy?style=social)](https://twitter.com/MaxPrilutskiy)
 # ✍️ How to Contribute
 If you have found some great tool or app (😍), please, contribute to **Side Project Kit** collection. Simply submit a Pull Request with respect to our [Contribution Guidelines](contributing.md) 😎. We would love you to see your suggestions!
+
+
+<br />
+
+👉 Support **Side Project Kit**, share a link to this page on Twitter:
+
+[![Tweet about Side Project Kit](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fmaxprilutskiy%2Fside-project-kit)](https://twitter.com/intent/tweet?url=https://github.com/maxprilutskiy/side-project-kit&text=A%20curated%20collection%20of%20tools%20that%20make%20side%20project%20development%20much%20easier%20%F0%9F%98%8D%0A%0Aby%20@MaxPrilutskiy)
+
 # 🔖 Table of Contents
 
 <!--ts-->
