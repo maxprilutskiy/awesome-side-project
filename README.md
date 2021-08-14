@@ -44,6 +44,10 @@ Table of contents
 
     [Pricing](https://pages.github.com/): Free.
 
+- [Vercel](https://vercel.com/dashboard) - an open serverless platform for static and hybrid applications.
+
+   [Pricing](https://vercel.com/pricing): free for individuals.
+
 - [Firebase hosting](https://firebase.google.com/products/hosting) - fast and secure web hosting.
 
     [Pricing](https://firebase.google.com/pricing): Free for storing up to 10GB and for transferring up to 360 MB/day.
