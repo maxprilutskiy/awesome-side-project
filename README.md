@@ -8,7 +8,9 @@
 
 **Side Project Kit** is a curated collection of tools that make side project development much easier.
 
-# 🌟 If you find this collection helpful - please give it a star ;) 🌟
+## 🌟
+## 🌟 If you find this collection helpful - please give it a star ;)
+## 🌟
 
 
 
