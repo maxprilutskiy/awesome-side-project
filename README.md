@@ -180,6 +180,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://crello.com/plans/): 5 design downloads every month.
 
+-   [Canva](https://www.canva.com/) - a tool to create designs online.
+
+    [Pricing](https://www.canva.com/pricing/): has a pretty generous free plan.
+
 ### Plan
 
 #### Task management
