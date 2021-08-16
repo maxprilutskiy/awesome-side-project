@@ -184,6 +184,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://www.canva.com/pricing/): has a pretty generous free plan.
 
+-   [Screely](https://www.screely.com/) - a tool to turn screenshots into browser mockups.
+
+    Pricing: Free.
+
 ### Plan
 
 #### Task management
