@@ -374,6 +374,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     Pricing: Free.
 
+-   [Discord](https://discord.com/) - free voice, video, and text chat app that’s used by tens of millions of people to talk and hang out with their communities.
+
+    [Pricing](https://discord.com/nitro): Discord is free to use, but Discord Nitro ($9.99 per month, or $99.99 per year) gets you bigger upload size limits, HD video for streaming and screen-sharing, animated avatars and custom emojis.
+
 #### Chat
 
 -   [Crisp chat](https://crisp.chat/en/) - Provides realtime assistance with shared browsing and live chat. Crisp lets you co-browse with your customers without any other plugin than our live chat solution.
