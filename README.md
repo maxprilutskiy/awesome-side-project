@@ -1,6 +1,6 @@
 ![Side Project Kit - for developers, by developers](side-project-kit.png)
 
-[![Follow Side Projects subreddit](https://img.shields.io/reddit/subreddit-subscribers/SideProject?style=social)]()
+[![Follow Side Projects subreddit](https://img.shields.io/reddit/subreddit-subscribers/SideProject?style=social)](https://reddit.com/r/sideproject)
 
 
 ---
