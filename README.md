@@ -164,6 +164,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://www.invisionapp.com/plans): free plan includes up to 2 docs and up to 10 users.
 
+-   [Excalidraw](https://excalidraw.com/) - sketch and prototyping tool with minimalist hand-drawn design. It has a wide library of ready-to-use objects.
+
+    [Pricing](https://plus.excalidraw.com/pricing): Free
+
 #### Graphic assets
 
 -   [Iconfinder](https://www.iconfinder.com/) - a search engine for icons and illustrations.
