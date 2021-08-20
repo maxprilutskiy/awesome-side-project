@@ -43,6 +43,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
          * [Errors tracking](#errors-tracking)
          * [Backend](#backend)
          * [QA](#qa)
+         * [Video and audio](#video-and-audio)
       * [Design](#design)
          * [Visual Prototyping](#visual-prototyping)
          * [Graphic Assets](#graphic-assets)
@@ -151,6 +152,12 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 -   [Cucumber](https://cucumber.io/) - BDD testing framework and a dashboard.
 
     [Pricing](https://cucumber.io/tools/cucumberstudio/pricing/): Testing framework is free and open-source.
+
+#### Video and Audio
+
+-   [Daily](https://www.daily.co/) - real-time video and audio APIs for developers.
+
+    [Pricing](https://www.daily.co/pricing): up to 2K minutes monthly for free, and [a startup program](https://www.daily.co/blog/get-early-access-to-dailys-startup-program/) with $1k call credits and more.
 
 ### Design
 
