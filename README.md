@@ -158,6 +158,11 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 -   [Daily](https://www.daily.co/) - real-time video and audio APIs for developers.
 
     [Pricing](https://www.daily.co/pricing): up to 2K minutes monthly for free, and [a startup program](https://www.daily.co/blog/get-early-access-to-dailys-startup-program/) with $1k call credits and more.
+    
+-   [Video SDK](https://videosdk.live/) - real-time video and audio API, Low latency live streaming, video on demand, 
+
+    [Pricing](https://videosdk.live/pricing): up to 10,000 build minutes per month for free, and and [a startup program](https://survey.zohopublic.in/zs/e0DfSj) with 5 million minutes credits and free enterprise support plan.
+
 
 ### Design
 
