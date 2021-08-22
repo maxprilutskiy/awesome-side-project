@@ -220,6 +220,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
     
     [Pricing](https://www.atlassian.com/software/jira/pricing): Up to 10 users for free.
 
+-   [ClickUp](https://clickup.com/) - An all-rounded tool to handle projects and tasks.
+    
+    [Pricing](https://clickup.com/pricing): Up to 100MB storage, unlimited tasks, memebers, 2FA for free.
+
 #### Collaboration
 
 -   [Slack](https://slack.com/) - messaging app for work.
