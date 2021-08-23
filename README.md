@@ -42,6 +42,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
          * [CI](#ci)
          * [Errors tracking](#errors-tracking)
          * [Backend](#backend)
+         * [Headless CMSs](#headless-cmss)
          * [QA](#qa)
          * [Video and audio](#video-and-audio)
       * [Design](#design)
@@ -142,6 +143,12 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 -   [prisma.io](https://www.prisma.io/) - Node.js / Typescript ORM, migrations tool, visual database browser.
 
     Pricing: Free and open-source.
+
+#### Headless CMSs
+
+-   [Apisful](https://www.apisful.com/) - a cloud-based headless CMS.
+
+    [Pricing](https://www.apisful.com/pricing/): All features are free. The free tier is limited by usage volumes.
 
 #### QA
 
