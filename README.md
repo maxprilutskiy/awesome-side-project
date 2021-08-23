@@ -311,10 +311,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 -   [Versoly](https://versoly.com/) - landing page builder for SaaS.
 
     [Pricing](https://versoly.com/pricing): up to 3 sites with 3 pages per site, subdomain-only is on the free plan.
-    
+
 -   [Windframe](https://devwares.com/windframe) - Drag and drop builder for Tailwind CSS websites.
 
-    [Pricing](https://devwares.com/windframe/pricing: 20 website exports on the free plan
+    [Pricing](https://devwares.com/windframe/pricing): 20 website exports on the free plan
 
 ### Reach
 
