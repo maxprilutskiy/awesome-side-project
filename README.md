@@ -319,6 +319,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://versoly.com/pricing): up to 3 sites with 3 pages per site, subdomain-only is on the free plan.
 
+-   [Windframe](https://devwares.com/windframe) - Drag and drop builder for Tailwind CSS websites.
+
+    [Pricing](https://devwares.com/windframe/pricing): 20 website exports on the free plan
+
 ### Reach
 
 #### Email on custom domain
