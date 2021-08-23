@@ -143,6 +143,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     Pricing: Free and open-source.
 
+-   [Apisful](https://www.apisful.com/) - a cloud-based headless CMS.
+
+    [Pricing](https://www.apisful.com/pricing/): All features are free. The free tier is limited by usage volumes.
+
 #### QA
 
 -   [Cypress](https://www.cypress.io/) - e2e testing framework and a dashboard.
