@@ -144,6 +144,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     Pricing: Free and open-source.
 
+-   [Encore](https://encore.dev/) - Cloud Native Development Platform with code generation through static analysis. Built in CI/CD, databases, tracing, and secrets.
+    
+    [Pricing](https://encore.dev/pricing): Free for hobby projects, paid plans for large scale commercial use.
+
 #### Headless CMSs
 
 -   [Apisful](https://www.apisful.com/) - a cloud-based headless CMS.
