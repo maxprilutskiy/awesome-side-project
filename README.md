@@ -76,7 +76,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
          * [Help center](#help-center)
          * [Community](#community)
          * [Chat](#chat)
-      
+
 <!--te-->
 
 ## 👩‍💻 Build
@@ -85,12 +85,12 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
 #### Hosting
 
--   [Github pages](https://pages.github.com/) - free hosting for static sites. 
+-   [Github pages](https://pages.github.com/) - free hosting for static sites.
 
     [Pricing](https://pages.github.com/): Free.
 
 -   [Vercel](https://vercel.com/dashboard) - an open serverless platform for static and hybrid applications.
-   
+
     [Pricing](https://vercel.com/pricing): free for individuals.
 
 -   [Firebase hosting](https://firebase.google.com/products/hosting) - fast and secure web hosting.
@@ -118,7 +118,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
 #### Errors tracking
 
--   [Rollbar](https://rollbar.com/) - a cloud-based bug tracking and monitoring solution.   
+-   [Rollbar](https://rollbar.com/) - a cloud-based bug tracking and monitoring solution.
 
     [Pricing](https://rollbar.com/pricing/): up to 25,000 error events monthly for free.
 
@@ -145,7 +145,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
     Pricing: Free and open-source.
 
 -   [Encore](https://encore.dev/) - Cloud Native Development Platform with code generation through static analysis. Built in CI/CD, databases, tracing, and secrets.
-    
+
     [Pricing](https://encore.dev/pricing): Free for hobby projects, paid plans for large scale commercial use.
 
 #### Headless CMSs
@@ -169,8 +169,8 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 -   [Daily](https://www.daily.co/) - real-time video and audio APIs for developers.
 
     [Pricing](https://www.daily.co/pricing): up to 2K minutes monthly for free, and [a startup program](https://www.daily.co/blog/get-early-access-to-dailys-startup-program/) with $1k call credits and more.
-    
--   [Video SDK](https://videosdk.live/) - real-time video and audio API, Low latency live streaming, video on demand, 
+
+-   [Video SDK](https://videosdk.live/) - real-time video and audio API, Low latency live streaming, video on demand.
 
     [Pricing](https://videosdk.live/pricing): up to 10,000 build minutes per month for free, and and [a startup program](https://survey.zohopublic.in/zs/e0DfSj) with 5 million minutes credits and free enterprise support plan.
 
@@ -228,11 +228,11 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
     [Pricing](https://github.com/features/issues/): Free.
 
 -   [JIRA](https://www.atlassian.com/software/jira) - Jira is a software application used for issue tracking and project management.
-    
+
     [Pricing](https://www.atlassian.com/software/jira/pricing): Up to 10 users for free.
 
 -   [ClickUp](https://clickup.com/) - An all-rounded tool to handle projects and tasks.
-    
+
     [Pricing](https://clickup.com/pricing): Up to 100MB storage, unlimited tasks, memebers, 2FA for free.
 
 #### Collaboration
@@ -245,7 +245,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://www.notion.so/pricing): Collaborate with up to 5 guests for free.
 
--   [Google Meet](https://meet.google.com/) - Real-time in-browser meetings by Google. 
+-   [Google Meet](https://meet.google.com/) - Real-time in-browser meetings by Google.
 
     [Pricing](https://apps.google.com/intl/en/meet/pricing/): Up to 100 participants, up to 60 minutes per meeting for free.
 
@@ -315,7 +315,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
 #### Landing page
 
--   [Unicorn platform](https://unicornplatform.com/) - Drag & drop landing page builder for startups, mobile apps, and SaaS. 100% no-code. 
+-   [Unicorn platform](https://unicornplatform.com/) - Drag & drop landing page builder for startups, mobile apps, and SaaS. 100% no-code.
 
     [Pricing](https://unicornplatform.com/pricing/): 1 site, 10 blog posts, subdomain-only is on the free plan.
 
@@ -349,6 +349,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://www.mailgun.com/pricing/): 5K free emails for 3 months, then pay-as-you-go.
 
+-   [EmailOctopus](https://emailoctopus.com) - easy to use and affordable email marketing platform.
+
+    [Pricing](https://emailoctopus.com/pricing): Free plan includes up to 2,500 subscribers and 10,000 emails per month.
+
 ### Legal
 
 #### Cookies
@@ -357,7 +361,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://www.axeptio.eu/en/pricing): Up to 150k visitors per month for free.
 
--   [Cookiebot](https://www.cookiebot.com/en/) - CCPA, GDPR compliance tool
+-   [Cookiebot](https://www.cookiebot.com/en/) - CCPA, GDPR compliance tool.
 
     [Pricing](https://www.cookiebot.com/en/pricing/): Maximum 1 domain for free, with less than 100 subpages.
 
