@@ -260,6 +260,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://www.typeform.com/pricing/): up 10 questions/typeform, 10 responses/month for [free](https://help.typeform.com/hc/en-us/articles/360032972852-Free-plan).
 
+-   [Tally](https://tally.so/) - Tally is a form builder that works like a doc.
+
+    [Pricing](https://tally.so/pricing): 99% of Tally's features are available to all users for free and without limits.
+
 #### Virtual whiteboard
 
 -   [Miro](https://miro.com/) - Miro is the online collaborative whiteboarding platform to work together, from brainstorming with digital sticky notes to planning.
