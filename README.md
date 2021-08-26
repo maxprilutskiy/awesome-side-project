@@ -107,7 +107,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
 -   [Cloudflare Pages](https://pages.cloudflare.com/) - Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.
 
-    [Pricing](https://pages.cloudflare.com/#pricing): - free plan includes up to 500 build minutes per month.
+    [Pricing](https://pages.cloudflare.com/#pricing): - free plan includes up to 500 build per month.
 #### CI
 
 -   [Github actions](https://github.com/features/actions) - CI/CD workflow automations
