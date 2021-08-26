@@ -105,6 +105,9 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://firebase.google.com/pricing): Free for first 2M function calls every month.
 
+-   [Cloudflare Pages](https://pages.cloudflare.com/) - Cloudflare Pages is a JAMstack platform to collaborate and deploy websites.
+
+    [Pricing](https://pages.cloudflare.com/#pricing): - free plan includes up to 500 build per month.
 #### CI
 
 -   [Github actions](https://github.com/features/actions) - CI/CD workflow automations
@@ -256,6 +259,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 -   [Typeform](https://www.typeform.com/) - online forms and surveys with wide design options.
 
     [Pricing](https://www.typeform.com/pricing/): up 10 questions/typeform, 10 responses/month for [free](https://help.typeform.com/hc/en-us/articles/360032972852-Free-plan).
+
+-   [Tally](https://tally.so/) - Tally is a form builder that works like a doc.
+
+    [Pricing](https://tally.so/pricing): 99% of Tally's features are available to all users for free and without limits.
 
 #### Virtual whiteboard
 
