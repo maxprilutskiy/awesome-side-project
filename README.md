@@ -105,6 +105,9 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://firebase.google.com/pricing): Free for first 2M function calls every month.
 
+-   [Cloudflare Pages](https://pages.cloudflare.com/) - Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.
+
+    [Pricing](https://pages.cloudflare.com/#pricing): - up to 500 build minutes per month.
 #### CI
 
 -   [Github actions](https://github.com/features/actions) - CI/CD workflow automations
