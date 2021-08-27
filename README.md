@@ -346,6 +346,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://360.yandex.com/business/tariff): up to 10GB of storage on the free plan.
 
+-   [Zoho Mail](https://www.zoho.com/mail/custom-domain-email.html) - Zoho Mail Suite is a business - focused email service provider where you can add your own domain and create a custom and unique email.
+
+    [Pricing](https://www.zoho.com/mail/zohomail-pricing.html?src=hd): Forever Free Plan includes Email hosting for single domain, up to five users, 5GB/User, 25MB attachment limit.
+
 #### Email
 
 -   [MailChimp](https://mailchimp.com/) - marketing automation platform and email marketing service.
