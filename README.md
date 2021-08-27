@@ -306,6 +306,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://cutt.ly/pro-pricing): up to 3 branded domains for free.
 
+-   [Short.io](https://short.io/) - Shorten, personalize, and share fully branded short URLs.
+
+    [Pricing](https://short.io/pricing) - Free plan includes 5 custom domains and a total of 1000 Branded links.
+
 ## 📦 Package
 
 ### Identity
