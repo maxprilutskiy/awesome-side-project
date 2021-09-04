@@ -177,6 +177,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://videosdk.live/pricing): up to 10,000 build minutes per month for free, and and [a startup program](https://survey.zohopublic.in/zs/e0DfSj) with 5 million minutes credits and free enterprise support plan.
 
+-   [Loom](https://www.loom.com/): Record quick videos of your screen and cam. An essential tool for hybrid workplaces.
+
+    [Pricing](https://www.loom.com/pricing): Up to 50 Creators Lite, 25 videos/person, 5 mins/video.
+
 
 ### Design
 
