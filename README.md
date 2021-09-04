@@ -368,6 +368,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://emailoctopus.com/pricing): Free plan includes up to 2,500 subscribers and 10,000 emails per month.
 
+-   [SendGrid](https://sendgrid.com/): Email Delivery Service.
+
+    [Pricing](https://sendgrid.com/pricing/): Send 100 emails/day forever, for free.
+
 ### Legal
 
 #### Cookies
