@@ -66,6 +66,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
       * [Reach](#reach)
          * [Email on custom domain](#email-on-custom-domain)
          * [Email](#email)
+         * [Newsletter](#newsletter)
       * [Legal](#legal)
          * [Cookies](#cookies)
          * [Terms of use, privacy policy](#terms-of-use-privacy-policy)
@@ -376,6 +377,11 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://sendgrid.com/pricing/): Send 100 emails/day forever, for free.
 
+#### Newsletter
+
+-   [Substack](https://substack.com/): Start a newsletter. Build your community. Make money from subscriptions. Publishing is free, with no limits. We only make money when you do.
+
+    [Pricing](https://substack.com/going-paid?utm_source=menu-dropdown): Writers keep 90% of their revenue minus credit card fees (2-4%)
 ### Legal
 
 #### Cookies
