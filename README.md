@@ -382,6 +382,11 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 -   [Substack](https://substack.com/): Start a newsletter. Build your community. Make money from subscriptions. Publishing is free, with no limits. We only make money when you do.
 
     [Pricing](https://substack.com/going-paid?utm_source=menu-dropdown): Writers keep 90% of their revenue minus credit card fees (2-4%)
+
+-   [Revue](https://www.getrevue.co/): Revue makes it easy for writers and publishers to send editorial newsletters — and get paid.
+
+    [Pricing](http://help.getrevue.co/en/articles/4754361-how-pricing-works-on-revue): Revue charges only 5% of revenue + stripe charges if you start a paid newsletter. 
+    
 ### Legal
 
 #### Cookies
