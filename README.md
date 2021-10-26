@@ -357,7 +357,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
 -   [Lark Suite](https://www.larksuite.com/en_us/): All your chats, meetings, calendars, docs, and emails in one place.
 
-    [Pricing](https://www.larksuite.com/en_us/pricing):Free plan includes Unlimited video call minutes (up to 350 participants), Unlimited searchable messages, 200GB cloud storage, 500GB email storage, Unlimited apps, Multiple team admins, Customizable workflows.
+    [Pricing](https://www.larksuite.com/en_us/pricing): Free plan includes Unlimited video call minutes (up to 350 participants), 200GB cloud storage, 500GB email storage, Customizable workflows etc.
 
 #### Email
 
