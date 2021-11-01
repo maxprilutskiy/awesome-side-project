@@ -355,6 +355,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://www.zoho.com/mail/zohomail-pricing.html?src=hd): Forever Free Plan includes Email hosting for single domain, up to five users, 5GB/User, 25MB attachment limit.
 
+-   [Lark Suite](https://www.larksuite.com/en_us/): All your chats, meetings, calendars, docs, and emails in one place.
+
+    [Pricing](https://www.larksuite.com/en_us/pricing): Free plan includes Unlimited video call minutes (up to 350 participants), 200GB cloud storage, 500GB email storage, Customizable workflows etc.
+
 #### Email
 
 -   [MailChimp](https://mailchimp.com/) - marketing automation platform and email marketing service.
