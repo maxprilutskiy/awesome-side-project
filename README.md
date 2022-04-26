@@ -319,6 +319,12 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
 ### Identity
 
+#### Authentication
+
+-   [MojoAuth](https://mojoauth.com) - Easily offer passwordless authentication in your apps with MojoAuth.
+
+    [Pricing](https://mojoauth.com/pricing/) - All features including the live chat support are free.
+    
 #### Branding
 
 -   [Google Domains](https://domains.google/) - domain register by Google.
