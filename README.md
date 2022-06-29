@@ -256,6 +256,11 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 -   [Google Meet](https://meet.google.com/) - Real-time in-browser meetings by Google.
 
     [Pricing](https://apps.google.com/intl/en/meet/pricing/): Up to 100 participants, up to 60 minutes per meeting for free.
+    
+-   [Taskade](https://www.taskade.com/) - Real-time task lists, mind maps, and calendars with built-in chat and video conferencing.
+
+    [Pricing](https://www.taskade.com/pricing): Free for teams. Collaborate with unlimited project editors and workspace members for free.
+
 
 ### Research
 
