@@ -1,4 +1,4 @@
-![Side Project Kit - for developers, by developers](side-project-kit.png)
+![Side Project Kit - for developers, by developers](awesome-side-project.png)
 
 [![Follow Side Projects subreddit](https://img.shields.io/reddit/subreddit-subscribers/SideProject?style=social)](https://reddit.com/r/sideproject)
 
@@ -12,7 +12,7 @@
 
 🎗 Support **Side Project Kit**, share a link to this page on Twitter:
 
-[![Tweet about Side Project Kit](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fmaxprilutskiy%2Fside-project-kit)](https://twitter.com/intent/tweet?url=https://github.com/maxprilutskiy/side-project-kit&text=A%20curated%20collection%20of%20tools%20that%20make%20side%20project%20development%20much%20easier%20%F0%9F%98%8D%0A%0Aby%20@MaxPrilutskiy)
+[![Tweet about Side Project Kit](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fmaxprilutskiy%2Fawesome-side-project)](https://twitter.com/intent/tweet?url=https://github.com/maxprilutskiy/awesome-side-project&text=A%20curated%20collection%20of%20tools%20that%20make%20side%20project%20development%20much%20easier%20%F0%9F%98%8D%0A%0Aby%20@MaxPrilutskiy)
 
 <br />
 
