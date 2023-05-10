@@ -1,10 +1,9 @@
-![Side Project Kit - for developers, by developers](awesome-side-project.png)
+Awesome Side Project
+---
 
 [![Follow Side Projects subreddit](https://img.shields.io/reddit/subreddit-subscribers/SideProject?style=social)](https://reddit.com/r/sideproject)
 [![Follow the author on Twitter](https://img.shields.io/twitter/follow/MaxPrilutskiy?style=social)](https://twitter.com/MaxPrilutskiy)
 
-
----
 
 
 **Awesome Side Project** is a curated collection of tools that make side project development much easier.
