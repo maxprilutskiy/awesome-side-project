@@ -147,6 +147,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://encore.dev/pricing): Free for hobby projects, paid plans for large scale commercial use.
 
+-   [Hook0](https://www.hook0.com/) - open-source webhook server to integrate into your project.
+
+    Pricing: Free and open-source. SaaS version also has a free tier.
+
 #### Headless CMSs
 
 -   [Apisful](https://www.apisful.com/) - a cloud-based headless CMS.
