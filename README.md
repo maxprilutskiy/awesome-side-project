@@ -104,6 +104,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 -   [Cloudflare Pages](https://pages.cloudflare.com/) - Cloudflare Pages is a JAMstack platform to collaborate and deploy websites.
 
     [Pricing](https://pages.cloudflare.com/#pricing): - free plan includes up to 500 build per month.
+    
+-   [Zeabur](https://zeabur.com): - a platform for deploying full stack apps and databases.
+
+    [Pricing](https://zeabur.com/pricing): - free plan include 3 servcices and $5 credits per month.
 #### CI
 
 -   [Github actions](https://github.com/features/actions) - CI/CD workflow automations
