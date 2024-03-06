@@ -40,6 +40,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
          * [Headless CMSs](#headless-cmss)
          * [QA](#qa)
          * [Video and audio](#video-and-audio)
+         * [Dev environment management](#dev-environment-management)
       * [Design](#design)
          * [Visual Prototyping](#visual-prototyping)
          * [Graphic Assets](#graphic-assets)
@@ -184,6 +185,12 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 -   [Loom](https://www.loom.com/): Record quick videos of your screen and cam. An essential tool for hybrid workplaces.
 
     [Pricing](https://www.loom.com/pricing): Up to 50 Creators Lite, 25 videos/person, 5 mins/video.
+
+#### Dev environment management
+
+-   [Daytona](https://www.daytona.io/) - The Open Source Dev Environment Manager.
+
+    [Pricing](https://github.com/daytonaio/daytona): Free.
 
 
 ### Design
