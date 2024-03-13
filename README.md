@@ -343,6 +343,11 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 -   [MojoAuth](https://mojoauth.com) - Easily offer passwordless authentication in your apps with MojoAuth.
 
     [Pricing](https://mojoauth.com/pricing/) - All features including the live chat support are free.
+
+-  [Clerk](https://clerk.com) - Authentication and user management platform for React and Next.js.
+
+   [Pricing](https://go.clerk.com/pricing) - Free plan includes 10,000 monthly active users, pre-built UI components, and custom domains.
+
     
 #### Branding
 
