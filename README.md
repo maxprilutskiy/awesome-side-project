@@ -290,6 +290,14 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://miro.com/pricing/): up to 3 editable boards for free.
 
+### Data
+
+#### User research
+
+-   [Job Postings](https://rapidapi.com/techmap-io-techmap-io-default/api/daily-international-job-postings) - job postings API for job boards, site gadgets, or analyses.
+
+    [Pricing](https://rapidapi.com/techmap-io-techmap-io-default/api/daily-international-job-postings/pricing): 25 free requests (250 job postings) per month.
+
 ## 🔁 Iterate
 
 #### Users tracking
