@@ -143,10 +143,14 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 -   [Supabase](https://supabase.io/) - open-source Firebase alternative relying on PostgreSQL instead of a NoSQL db.
 
     [Pricing](https://supabase.io/pricing): A plenty of features included in Free plan.
+    
+-   [Neon](https://neon.com/) - Neon is a modern, serverless cloud database built on PostgreSQL—enabling fast, scalable development with features like instant branching, autoscaling to zero, and developer-friendly workflows.
 
--   [prisma.io](https://www.prisma.io/) - Node.js / Typescript ORM, migrations tool, visual database browser.
+    [Pricing](https://neon.com/pricing): A plenty of features included in Free plan (20 projects,Autoscaling,Read replicas,Built-in high availability).
 
-    Pricing: Free and open-source.
+-   [Prisma](https://www.prisma.io/) - Node.js / Typescript ORM, migrations tool, visual database browser.
+
+    [Pricing](https://www.prisma.io/pricing): Free and open-source.
 
 -   [Encore](https://encore.dev/) - Cloud Native Development Platform with code generation through static analysis. Built in CI/CD, databases, tracing, and secrets.
 
@@ -154,7 +158,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
 -   [Hook0](https://www.hook0.com/) - open-source webhook server to integrate into your project.
 
-    Pricing: Free and open-source. SaaS version also has a free tier.
+    [Pricing](https://www.hook0.com/?pricing.destination=cloud#pricing): Free and open-source. SaaS version also has a free tier.
 
 #### Headless CMSs
 
