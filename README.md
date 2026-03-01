@@ -172,6 +172,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://cucumber.io/tools/cucumberstudio/pricing/): Testing framework is free and open-source.
 
+-   [PageGuard](https://pageguard.org) - free website health scanner that checks SEO, accessibility, performance, and best practices in ~30 seconds. AI-powered action plans tell you exactly what to fix.
+
+    [Pricing](https://pageguard.org/#pricing): Free scanner. Automated monitoring from $9/month.
+
 #### Video and Audio
 
 -   [Daily](https://www.daily.co/) - real-time video and audio APIs for developers.
