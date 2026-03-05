@@ -334,6 +334,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://short.io/pricing) - Free plan includes 5 custom domains and a total of 1000 Branded links.
 
+    -   [BeginThings](https://beginthings.com) - URL shortener and 95+ other free browser-based tools for side project builders: UTM builder, QR code maker, invoice generator, time tracker, Pomodoro timer, and more. No login required.
+ 
+        Pricing: 100% free. No account required.
+
 ## 📦 Package
 
 ### Identity
