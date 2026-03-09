@@ -192,6 +192,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://github.com/daytonaio/daytona): Free.
 
+-   [Dorothy](https://github.com/Charlie85270/Dorothy) - Open-source desktop app to orchestrate multiple AI CLI agents (Claude Code, Codex, Gemini CLI) simultaneously, with built-in Kanban management, automations, and remote control via Telegram.
+
+    Pricing: Free and open-source.
+
 
 ### Design
 
