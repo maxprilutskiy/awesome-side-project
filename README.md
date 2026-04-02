@@ -25,6 +25,7 @@ I faced these questions when worked on side projects over the last several years
 <br />
 
 ## ✍️ How to Contribute
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 If you have found some great tool or app (😍), please, contribute to **Side Project Kit** collection. Simply submit a Pull Request with respect to our [Contribution Guidelines](CONTRIBUTING.md) 😎. We would love you to see your suggestions!
 
 
