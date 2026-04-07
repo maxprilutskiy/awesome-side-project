@@ -489,6 +489,9 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://discord.com/nitro): Discord is free to use, but Discord Nitro ($9.99 per month, or $99.99 per year) gets you bigger upload size limits, HD video for streaming and screen-sharing, animated avatars and custom emojis.
 
+-   [RemoteOpenClaw](https://remoteopenclaw.com/) - Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and sell AI agent capabilities.
+
+    Pricing: Free to browse. Sellers need a pro subscription.
 #### Chat
 
 -   [Crisp chat](https://crisp.chat/en/) - Provides realtime assistance with shared browsing and live chat. Crisp lets you co-browse with your customers without any other plugin than our live chat solution.
