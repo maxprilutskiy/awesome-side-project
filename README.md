@@ -494,3 +494,6 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 -   [Crisp chat](https://crisp.chat/en/) - Provides realtime assistance with shared browsing and live chat. Crisp lets you co-browse with your customers without any other plugin than our live chat solution.
 
     [Pricing](https://crisp.chat/en/pricing/): 2 seats, basic chat (Livechat, Team inbox, Mobile Apps, Notifications)
+
+
+* [Launched](https://launched.deskio.org) – Merit-based product discovery platform for indie makers. No algorithm, no paid placement, 30-second submission. Free forever.
