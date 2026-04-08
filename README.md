@@ -314,6 +314,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://www.smartlook.com/pricing/): Capture up to 1,500 sessions per month, 1 funnel analysis and 3 heatmaps.
 
+-   [Signals CLI](https://github.com/sortlist/signals-cli) - Intent signal monitoring. Track LinkedIn engagers, keyword posters, job changers, and funding events from the terminal. JSON output. `npm i -g signals-sortlist-cli`
+
+    Pricing: Free CLI.
+
 #### Split tests
 
 -   [Google Optimize](https://optimize.google.com/) - Optimize allows you to test variants of web pages and see how they perform against an objective that you specify. Optimize monitors the results of your experiment and tells you which variant is the leader.
@@ -410,6 +414,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 -   [SendGrid](https://sendgrid.com/): Email Delivery Service.
 
     [Pricing](https://sendgrid.com/pricing/): Send 100 emails/day forever, for free.
+
+-   [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, run email + LinkedIn campaigns from the terminal. JSON output. `npm i -g overloop-cli`
+
+    Pricing: Free CLI.
 
 #### Newsletter
 
