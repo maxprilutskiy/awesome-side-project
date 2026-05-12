@@ -69,6 +69,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
       * [Finance](#finance)
          * [Payments](#payments)
          * [Banking](#banking)
+         * [Accounting & Tax](#accounting--tax)
       * [User support](#user-support)
          * [Help center](#help-center)
          * [Community](#community)
@@ -462,6 +463,12 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 -   [Revolut Business](https://business.revolut.com/) - borderless account for business finance.
 
     [Pricing](https://www.revolut.com/business/business-account-plans): up to 5 free local payments (.2 GBP outside the limit), 0 free international payments (3 GBP per each)
+
+#### Accounting & Tax
+
+-   [ReceiptClaimer](https://receiptclaimer.com.au) - AI-powered tax deduction tracking and audit reconciliation platform for Australian sole traders and landlords. Automate expense tracking and maximize tax returns with OCR and AI categorization.
+
+    [Pricing](https://receiptclaimer.com.au/pricing): Free tier available.
 
 ### User support
 
