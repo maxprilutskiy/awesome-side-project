@@ -28,6 +28,8 @@ I faced these questions when worked on side projects over the last several years
 If you have found some great tool or app (😍), please, contribute to **Side Project Kit** collection. Simply submit a Pull Request with respect to our [Contribution Guidelines](CONTRIBUTING.md) 😎. We would love you to see your suggestions!
 
 
+- [Commitment Issues](https://github.com/dotsystemsdevs/commitmentissues) - Free open-source web app that issues a satirical "death certificate" for abandoned GitHub repos — algorithmic cause of death, last commit as last words, severity score, profile graveyard scan.
+
 ## 🔖 Table of Contents
 
 <!--ts-->
