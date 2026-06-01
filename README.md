@@ -494,3 +494,5 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 -   [Crisp chat](https://crisp.chat/en/) - Provides realtime assistance with shared browsing and live chat. Crisp lets you co-browse with your customers without any other plugin than our live chat solution.
 
     [Pricing](https://crisp.chat/en/pricing/): 2 seats, basic chat (Livechat, Team inbox, Mobile Apps, Notifications)
+
+- [AI Tools Hub](https://cloud1-d4g787x2022795b0b-1435432994.tcloudbaseapp.com/hub.html) - 21 AI tools, vanilla JS + DeepSeek, one-time crypto payment, no subscriptions.
