@@ -233,6 +233,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     Pricing: Free.
 
+-   [Vaultool](https://vaultool.com/) - a free online toolbox with 30+ developer-friendly tools for image compression, format conversion, PDF manipulation, text processing, color picking, and more. No signup required, all processing happens in the browser.
+
+    [Pricing](https://vaultool.com/): Free, no limits.
+
 ### Plan
 
 #### Task management
