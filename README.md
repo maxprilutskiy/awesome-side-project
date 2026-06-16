@@ -463,6 +463,12 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://www.revolut.com/business/business-account-plans): up to 5 free local payments (.2 GBP outside the limit), 0 free international payments (3 GBP per each)
 
+#### Accounting
+
+-   [Ecommerce Profit Tracker PRO](https://whop.com/glm-643b/ecommerce-profit-tracker-pro-know-your-real-profit) - Excel/Google Sheets workbook for ecommerce founders (Etsy / Shopify / Amazon / eBay). Calculates true net profit per order after marketplace fees, ad spend, COGS and shipping.
+
+    Pricing: $19 one-time, no subscription.
+
 ### User support
 
 #### Help center
