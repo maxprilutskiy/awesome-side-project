@@ -162,6 +162,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://www.apisful.com/pricing/): All features are free. The free tier is limited by usage volumes.
 
+-   [UnfoldCMS](https://github.com/hpakdaman/unfoldcms) - a self-hosted headless CMS built on PHP 8.3 and Laravel 12 with REST API v1 (42 endpoints), HMAC-signed webhooks, and headless mode for Next.js, Astro, SvelteKit, and Nuxt. One-time pricing — no subscriptions. [Website](https://unfoldcms.com)
+
+    [Pricing](https://unfoldcms.com/pricing): Core tier is free. Pro is a one-time license.
+
 #### QA
 
 -   [Cypress](https://www.cypress.io/) - e2e testing framework and a dashboard.
