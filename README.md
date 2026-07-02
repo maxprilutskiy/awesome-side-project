@@ -284,6 +284,12 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://tally.so/pricing): 99% of Tally's features are available to all users for free and without limits.
 
+#### Market research
+
+-   [GetAppNiche](https://getappniche.com/) - App Store intelligence for validating iOS app ideas with revenue estimates, ASO keywords, competitor ads, and review signals.
+
+    [Pricing](https://getappniche.com/pricing): Free app revenue lookup and top charts without an account; paid plans include deeper research workflows.
+
 #### Virtual whiteboard
 
 -   [Miro](https://miro.com/) - Miro is the online collaborative whiteboarding platform to work together, from brainstorming with digital sticky notes to planning.
