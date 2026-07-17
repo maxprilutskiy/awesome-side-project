@@ -346,7 +346,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
 -  [Clerk](https://clerk.com) - Authentication and user management platform for React and Next.js.
 
-   [Pricing](https://go.clerk.com/pricing) - Free plan includes 10,000 monthly active users, pre-built UI components, and custom domains.
+   [Pricing](https://clerk.com/pricing) - Free plan includes 50,000 monthly retained users, unlimited applications, and prebuilt UI components.
 
     
 #### Branding
