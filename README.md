@@ -233,6 +233,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     Pricing: Free.
 
+-   [Typing Words GIF](https://typingwordsgif.com/) - free online typing text GIF maker.
+
+    Pricing: Free.
+
 ### Plan
 
 #### Task management
