@@ -418,6 +418,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
     [Pricing](https://substack.com/going-paid?utm_source=menu-dropdown): Writers keep 90% of their revenue minus credit card fees (2-4%)
 
 -   [Revue](https://www.getrevue.co/): Revue makes it easy for writers and publishers to send editorial newsletters — and get paid.
+-   [Autoposting](https://autoposting.ai): AI social media manager that writes posts in your own voice, clips long video into short-form, and schedules to X, LinkedIn, Instagram, Threads and YouTube.
 
     [Pricing](http://help.getrevue.co/en/articles/4754361-how-pricing-works-on-revue): Revue charges only 5% of revenue + stripe charges if you start a paid newsletter. 
     
