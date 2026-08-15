@@ -463,6 +463,12 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://www.revolut.com/business/business-account-plans): up to 5 free local payments (.2 GBP outside the limit), 0 free international payments (3 GBP per each)
 
+#### Business Calculators
+
+-   [SmartBizCalc](https://smartbizcalc.com) - 416+ free business calculators covering break-even analysis, startup costs, pricing, contractor rates, and S-corp/LLC tax comparisons.
+
+    [Pricing](https://smartbizcalc.com): Free. No signup required.
+
 ### User support
 
 #### Help center
