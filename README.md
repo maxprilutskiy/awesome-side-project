@@ -359,6 +359,35 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     Pricing: Free
 
+-   [Codex Theme Builder](https://codextheme.tools) - Free browser theme builder for OpenAI Codex with live preview.
+
+    Pricing: Free
+
+-   [WattsCalc](https://wattscalc.com) - Wattage and electricity cost calculator.
+
+    Pricing: Free
+
+-   [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - Lawn mowing cost estimates by area and rate.
+
+    Pricing: Free
+
+-   [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Embroidery job pricing calculator.
+
+    Pricing: Free
+
+-   [Image to Crochet Pattern](https://imagetocrochetpattern.com) - Convert images into crochet patterns.
+
+    Pricing: Free
+
+-   [SkyCOTL Tools](https://skycotl.tools) - Guides and calculators for Sky: Children of the Light.
+
+    Pricing: Free
+
+-   [Pressure Washer Fix](https://pressurewasherfix.com) - Troubleshooting guides for pressure washer issues.
+
+    Pricing: Free
+
+
 #### Landing page
 
 -   [Unicorn platform](https://unicornplatform.com/) - Drag & drop landing page builder for startups, mobile apps, and SaaS. 100% no-code.
