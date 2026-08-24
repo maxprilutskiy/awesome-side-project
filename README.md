@@ -359,6 +359,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     Pricing: Free
 
+-   [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Catalog of programs that still give a $0 domain or subdomain, plus a live RDAP hunter for unused cheap TLDs (year-1 cheap, not forever-free).
+
+    [Pricing](https://arynjennen1989-stack.github.io/): Free. No account.
+
 #### Landing page
 
 -   [Unicorn platform](https://unicornplatform.com/) - Drag & drop landing page builder for startups, mobile apps, and SaaS. 100% no-code.
