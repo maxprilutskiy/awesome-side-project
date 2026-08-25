@@ -453,6 +453,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://www.payoneer.com/about/fees/): 3% for credit card payments
 
+-   [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) - Browser invoice and receipt generator; print or save as PDF locally with no account.
+
+    [Pricing](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-side-project-v1): Free invoice/receipt page; optional commercial white-label pack (EUR 249 one-time) adds your logo, colors, six templates, and unlimited batch CLI.
+
 #### Banking
 
 -   [Wise](https://wise.com/gb/business/) - global business account.
