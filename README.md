@@ -453,6 +453,12 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://www.payoneer.com/about/fees/): 3% for credit card payments
 
+#### Invoicing & Accounting
+
+-   [BusinessOS](https://businessos.biz) - encrypted, offline-first invoicing and accounting for side projects, freelancers, and small businesses. Voice-to-invoice in 3 seconds, WhatsApp send, multi-region tax (VAT, GST, ZATCA).
+
+    [Pricing](https://businessos.biz): Free during limited early access.
+
 #### Banking
 
 -   [Wise](https://wise.com/gb/business/) - global business account.
