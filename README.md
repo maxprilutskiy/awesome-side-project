@@ -453,6 +453,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://www.payoneer.com/about/fees/): 3% for credit card payments
 
+-   [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - free browser freelance invoice, quote, timesheet, and weekly status report generators (MIT).
+
+    Pricing: Free.
+
 #### Banking
 
 -   [Wise](https://wise.com/gb/business/) - global business account.
