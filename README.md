@@ -220,6 +220,7 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
     Pricing: Free.
 
 #### Graphic design
+-   [Firm Beacon Image Resizer](https://www.firmbeacon.co.uk/tools/image-resizer) - Browser-based image resizing for project assets. It handles JPG, PNG, and WebP files locally without uploading them.
 
 -   [Crello](https://crello.com/) - animated graphic design.
 
