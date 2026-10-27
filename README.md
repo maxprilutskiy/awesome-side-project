@@ -284,6 +284,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://tally.so/pricing): 99% of Tally's features are available to all users for free and without limits.
 
+-   [WishKit](https://www.wishkit.io/) - In-app feature request board for iOS and web apps where users submit and vote on features.
+
+    [Pricing](https://www.wishkit.io/#pricing): free forever for 1 project with iOS and web SDKs and unlimited users, shows the first 5 feature requests.
+
 #### Virtual whiteboard
 
 -   [Miro](https://miro.com/) - Miro is the online collaborative whiteboarding platform to work together, from brainstorming with digital sticky notes to planning.
