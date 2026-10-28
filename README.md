@@ -156,6 +156,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     Pricing: Free and open-source. SaaS version also has a free tier.
 
+-   [Nhost](https://nhost.io/) - managed backend for agentic apps: Postgres, GraphQL API, auth, storage, functions and an MCP server for AI agents. Open source.
+
+    [Pricing](https://nhost.io/pricing): Free Starter plan with the full backend stack, paid plans when you need more.
+
 #### Headless CMSs
 
 -   [Apisful](https://www.apisful.com/) - a cloud-based headless CMS.
