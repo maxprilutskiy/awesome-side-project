@@ -284,6 +284,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
     [Pricing](https://tally.so/pricing): 99% of Tally's features are available to all users for free and without limits.
 
+-   [EarlyLore](https://earlylore.com/) - Validate product ideas against real competitors, demand, pricing, and entry angles before building.
+
+    [Pricing](https://earlylore.com/pricing): free starter includes 1 Standard Evaluation and limited product profiles on sign-up.
+
 #### Virtual whiteboard
 
 -   [Miro](https://miro.com/) - Miro is the online collaborative whiteboarding platform to work together, from brainstorming with digital sticky notes to planning.
